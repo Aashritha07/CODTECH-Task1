@@ -1,3 +1,37 @@
+**NAME:** M.S.L.Aashritha
+**Company:** CODTECH IT SOLUTIONS
+**ID** CT08DS3204
+**DOMAIN:** FULL STACK
+**DURATION:** JUNE TO JULY 2024
+
+
+**PROJECT NAME:** BLOG-APP
+
+**OVERVIEW OF THE PROJECT:**
+The Blog-App is a full stack web application that allows users to create, save, update, and delete blogs. The frontend is built using React, while the backend is powered by Express and connected to a MongoDB database for persistent data storage.
+
+##Features
+Create Blogs: Users can create new blog posts.
+Update Blogs: Users can edit their existing blog posts.
+Delete Blogs: Users can remove their blog posts.
+View Blogs: Users can view all blog posts.
+##Technologies Used
+#Frontend
+React: A JavaScript library for building user interfaces.
+React Router: For handling navigation between different pages.
+Axios: For making HTTP requests to the backend API.
+#Backend
+Express: A web application framework for Node.js.
+MongoDB: A NoSQL database for storing blog data.
+Mongoose: An ODM library for MongoDB and Node.js.
+
+
+
+
+
+
+
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
